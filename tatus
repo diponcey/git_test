@@ -1,0 +1,23 @@
+[33mcommit 91a894074a909da86615f6612b3a80de866571ea[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: diponcey <dponce.yaconi@gmail.com>
+Date:   Sun Jun 16 00:09:11 2024 -0400
+
+    Add hello_world.txt
+
+[33mcommit 11946766cd01ad373ad89566ecea1ec372b7efed[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: diponcey <dponce.yaconi@gmail.com>
+Date:   Sun Jun 16 00:04:33 2024 -0400
+
+    Edit README.md and hello world.txt
+
+[33mcommit 15565ede424f82b8bb3eec41b7dfb34dc173f2f2[m
+Author: diponcey <dponce.yaconi@gmail.com>
+Date:   Sat Jun 15 23:58:23 2024 -0400
+
+    Add hello_world.txt
+
+[33mcommit e7d86cde1e40d56db9b755a527fb588075725712[m
+Author: diponcey <dponce.yaconi@gmail.com>
+Date:   Sat Jun 15 23:49:32 2024 -0400
+
+    Initial commit
